@@ -2,7 +2,7 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-# 👩🏻‍💻 Vitor C Oliveira
+<br/>
 
 **`FullStack Developer`**
 
@@ -59,17 +59,23 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=XYZChazan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&locate=en" height="150" alt="streak graph"  />
+<img src="https://github-profile-trophy.vercel.app?username=XYZChazan&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+<img src="https://streak-stats.demolab.com?user=XYZChazan&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3&locate=en" height="150" alt="streak graph"  />
+
+<br/>
 
 <img 
-      align="left" 
+      align="center" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=XYZChazan&theme=tokyonight&layout=compact&custom_title=Technology&langs_count=9" 
   />
   
-  <img src="https://github-profile-trophy.vercel.app?username=XYZChazan&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  
 </div>
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XYZChazan/XYZChazan/output/pacman-contribution-graph-dark.svg">
