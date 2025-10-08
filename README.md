@@ -2,15 +2,16 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=shark&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-###
+# 👩🏻‍💻 Vitor C Oliveira
 
-<img align="left" height="200" src="https://media.licdn.com/dms/image/v2/D4D03AQGbjFaNSj8gJA/profile-displayphoto-scale_200_200/B4DZnDl1bgKoAY-/0/1759923100040?e=1762992000&v=beta&t=Z-I5Ju1v3Edm7451ksQ2w9YYs3CWdjRIkM7Ti6q4IB0"  />
+**`FullStack Developer`**
 
-###
+ Hi, im 27 years old, from brazil.
+ Computation in UFRA. I love technologic and work with it. I recently started working helping open-source projects
 
-<h2 align="center">Hello World!! My name is Vitor C Oliveira, im from Brazil  and im a fullstack developer</h2>
+---
 
-###
+### 🤖 Technology
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -42,30 +43,37 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
-###
+<br/>
 
-<div align="left">
-  <a href="www.linkedin.com/in/vitor-carvalho-oliveira-a39685222" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="vitor.oliveira.developer@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+### 📊 statistics
 
-###
+<!-- <p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=XYZChazan&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+</p> -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maurodesouz&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+
+<img src="https://streak-stats.demolab.com?user=XYZChazan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&locate=en" height="150" alt="streak graph"  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=XYZChazan&theme=tokyonight&layout=compact&custom_title=Technology&langs_count=9" 
+  />
+  
+  <img src="https://github-profile-trophy.vercel.app?username=XYZChazan&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XYZChazan/XYZChazan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XYZChazan/XYZChazan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/XYZChazan/XYZChazan/output/pacman-contribution-graph.svg">
 </picture>
 
-###
