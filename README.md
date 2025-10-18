@@ -59,6 +59,8 @@
 
 <div align="center">
 
+[![An image of @xyzchazan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xyzchazan)](https://holopin.io/@xyzchazan)
+
 <img src="https://github-profile-trophy.vercel.app?username=XYZChazan&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
 <img src="https://streak-stats.demolab.com?user=XYZChazan&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3&locate=en" height="150" alt="streak graph"  />
